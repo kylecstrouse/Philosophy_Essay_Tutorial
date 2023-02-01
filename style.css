@@ -120,6 +120,15 @@
     flex-direction: column;
 }
 
+.main-section ul {
+    list-style:lower-roman;
+}
+
+.main-section li {
+    padding-top: 5px;
+    font-size: 18px;
+}
+
 .main-section header {
     display: flex;
     flex-direction: column;
